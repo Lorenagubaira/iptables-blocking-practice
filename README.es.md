@@ -1,6 +1,5 @@
-# Bloqueando peticiones de ping con iptables
-
 <!-- hide -->
+# Bloqueando peticiones de ping con iptables
 
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/iptables-blocking-practice/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -10,17 +9,14 @@
 
 *These instructions are [available in english](https://github.com/4GeeksAcademy/iptables-blocking-practice/blob/main/README.md)*
 
-<!-- endhide -->
-
-## 📝 Instrucciones
-
-Aprende a cómo usar iptables para bloquear peticiones entrantes por protocolos o puertos. Estas reglas son una importante linea de defensa a la hora de proteger el acceso a un servidor y asegurar el uso correcto de sus recursos
-
-<!-- hide -->
-
 ### Antes de empezar...
 
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
+<!-- endhide -->
+
+Aprende a cómo usar iptables para bloquear peticiones entrantes por protocolos o puertos. Estas reglas son una importante linea de defensa a la hora de proteger el acceso a un servidor y asegurar el uso correcto de sus recursos
+
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -38,6 +34,9 @@ $ npm i @learnpack/learnpack -g
 $ learnpack start
 ```
 
+</onlyfor>
+
+<!-- hide -->
 ## Colaboradores
 
 Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):

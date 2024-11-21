@@ -8,18 +8,17 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/master/README.es.md) :es:*
-<!-- endhide -->
 
-## 📝 Instructions
-
-Learn how to use iptables to block incoming requests by protocols or ports. These rules are an important line of defense when it comes to protecting access to a server and ensuring the correct use of its resources.
-
-<!-- hide -->
 ## Before you start...
 
 > We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
-
 <!-- endhide -->
+
+Learn how to use iptables to block incoming requests by protocols or ports. These rules are an important line of defense when it comes to protecting access to a server and ensuring the correct use of its resources.
+
+<onlyfor saas="true" withBanner="true">
+
+## 🌱  How to start this project?
 
 Clone this repository ([how to clone](https://4geeks.com/how-to/github-clone-repository)) inside the same [debian virtual machine](https://4geeks.com/docs/start/cybersecurity-virtual-machines#debian-virtual-machine) we have been working during the previous exercises and follow the steps below:
 
@@ -34,6 +33,8 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
+
+</onlyfor>
 
 <!-- hide -->
 
