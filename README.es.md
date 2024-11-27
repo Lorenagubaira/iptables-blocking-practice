@@ -16,7 +16,7 @@
 
 Aprende a cómo usar iptables para bloquear peticiones entrantes por protocolos o puertos. Estas reglas son una importante linea de defensa a la hora de proteger el acceso a un servidor y asegurar el uso correcto de sus recursos
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
