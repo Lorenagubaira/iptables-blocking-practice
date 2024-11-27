@@ -16,7 +16,7 @@
 
 Learn how to use iptables to block incoming requests by protocols or ports. These rules are an important line of defense when it comes to protecting access to a server and ensuring the correct use of its resources.
 
-<onlyfor saas="true" withBanner="false">
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱  How to start this project?
 
