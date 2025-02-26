@@ -16,8 +16,8 @@
 
 Aprende a cómo usar iptables para bloquear peticiones entrantes por protocolos o puertos. Estas reglas son una importante linea de defensa a la hora de proteger el acceso a un servidor y asegurar el uso correcto de sus recursos
 
-<onlyfor saas="false" withBanner="false">
-
+<how-to-start>
+  
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Clona este repositorio **en la [maquina virtual debian](https://4geeks.com/docs/start/cybersecurity-virtual-machines#debian-virtual-machine)** que hemos venido trabajando durante los proyectos anteriories (o instala una nueva si asi te parece) y sigue los siguientes pasos:
@@ -34,7 +34,7 @@ $ npm i @learnpack/learnpack -g
 $ learnpack start
 ```
 
-</onlyfor>
+</how-to-start>
 
 <!-- hide -->
 ## Colaboradores
