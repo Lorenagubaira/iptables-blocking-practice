@@ -4,8 +4,8 @@
 		"es": "Bloqueando peticiones de ping con iptables"
 	},
 	"description": {
-		"us": "Learn how to use iptables to block incoming requests by protocol or port",
-		"es": "Aprende a cómo usar iptables para bloquear peticiones entrantes por protocolos o puertos"
+		"us": "Learn how to configure iptables to block incoming requests based on protocol or port. Mastering these rules is crucial for securing servers and managing network traffic efficiently. This project will guide you step by step in setting up essential firewall protections to safeguard system resources and prevent unauthorized access.",
+		"es": "Aprende a configurar iptables para bloquear solicitudes entrantes según el protocolo o puerto. Dominar estas reglas es fundamental para asegurar servidores y gestionar el tráfico de red de manera eficiente. Este proyecto te guiará paso a paso en la configuración de protecciones esenciales para salvaguardar los recursos del sistema y prevenir accesos no autorizados."
 	},
 	"repository": "https://github.com/4GeeksAcademy/iptables-blocking-practice",
 	"duration": 2,
@@ -19,7 +19,7 @@
 	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 	"graded": true,
 	"telemetry": {
-		"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+		"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=1628"
 	},
 	"localhostOnly": true,
 	"delivery": {
